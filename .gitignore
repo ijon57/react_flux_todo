@@ -1,0 +1,11 @@
+node_modules
+browser-bundle.js
+npm-debug.log
+*~
+lib/*
+!lib/.gitkeep
+*.sublime-project
+*.sublime-workspace
+js/bundle.js
+js/bundle.min.js
+
